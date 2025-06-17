@@ -8,7 +8,7 @@
 
 Tot seguit farem clic al botó vermell com es veu a la imatge
 
-![01-entrada](https://gist.github.com/user-attachments/assets/bb1dbf27-70fe-4b2a-b5c9-e82f96d91df8)
+![01-entrada](https://github.com/user-attachments/assets/25ab2e87-4ff2-40c5-836b-5050d8bbf100)
 
 3. Un cop identificats, us demanarà un codi. Aquest és el codi per donar-se d'alta al grup d'aquesta formació: **lnsjsl**
 
