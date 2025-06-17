@@ -4,7 +4,7 @@
 
 2. Per iniciar la sessió amb aquest usuari, accedirem a la següent adreça
 
-[IsardVDI](https://elmeuescriptori.gestioeducativa.gencat.cat/login)
+[https://elmeuescriptori.gestioeducativa.gencat.cat/login](https://elmeuescriptori.gestioeducativa.gencat.cat/login)
 
 Tot seguit farem clic al botó vermell com es veu a la imatge
 
