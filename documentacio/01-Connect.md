@@ -13,4 +13,4 @@
 
 3. Un cop identificats, us demanarà un codi. Aquest és el codi per donar-se d'alta al grup d'aquesta formació: **lnsjsl**
 
-Així heu d'entrar a la plataforma.
+Així heu de poder accedir a la plataforma.
