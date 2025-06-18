@@ -15,3 +15,4 @@ Les diferents accions que ens permetrà realitzar són les següents
 
 Per accedir a un desplegament concret, clicarem al seu identificador. Ens trobarem una pantalla similar a aquesta:
 
+![16-desplegament](https://github.com/user-attachments/assets/3ed30eb1-5c0f-4ae2-9d26-5130d199b44b)
