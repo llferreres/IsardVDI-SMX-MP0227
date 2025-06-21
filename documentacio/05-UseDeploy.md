@@ -16,3 +16,22 @@ Les diferents accions que ens permetrà realitzar són les següents
 Per accedir a un desplegament concret, clicarem al seu identificador. Ens trobarem una pantalla similar a aquesta:
 
 ![16-desplegament](https://github.com/user-attachments/assets/3ed30eb1-5c0f-4ae2-9d26-5130d199b44b)
+
+Aquí podem visualitzar tot l'alumnat i el grup amb el que treballem.
+
+A la part superior hi trobarem aquestes icones que he numerat per explicar el seu funcionament:
+
+![17-iconesDeploy](https://github.com/user-attachments/assets/8ce4d9b4-89e3-406e-b7f4-5399ab01d2d6)
+
+1. Aquest botó permet aturar tots els escriptoris.
+2. Aquest botó permet mostrar o no els escriptoris als usuaris. Com exemple, volem l'atenció de l'alumnat i per aconseguir-ho ocultem els escriptoris o abans de començar una activitat tots els escriptoris són ocults.
+3. Aquest botó permet visualitzar el funcionament de tots els escriptoris en el que s'anomena videowall, per poder fer un seguiment del que fa l'alumnat.
+4. El botó de descàrrega serviria per facilitar enllaços dels escriptoris en format CSV, personalment no li acabo de trobar gaire sentit però si ho han afegit algú ho podrà necessitar.
+5. El botó groc permet regenerar els escriptoris del desplegament, per exemple si faltava afegir algú al desplegament o s'ha de realitzar algún canvi al mateix.
+6. El botó verd permet agregar més professorat editor al desplegament, per si és un desplegament compartit.
+7. El botó del llapis ens permetrà modificar l'escriptori, canviar nombre de CPUs, agregar o treure RAM, modificar gestor d'arrancada, canviar imatge, etc.
+8. Aquest botó permet agregar possibles usuaris que hagin quedat fora de la definició del grup
+9. Amb aquest botó podem esborrar el desplegament, ens preguntarà si el porta a la paperera o si l'esborra directament.
+10. Darrer botó de la llista, permet accedir a la paperera per esborrar o recuperar desplegaments. És la paperera general, no només mostra desplegaments si no també allò que s'hagi esborrat, per exemple un escriptori.
+
+L'alumnat podrà llavors iniciar l'escriptori i accedir des d'un visor.
