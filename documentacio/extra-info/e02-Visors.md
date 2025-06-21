@@ -10,4 +10,4 @@ Els visors permeten connectar amb la màquina virtual per tal de poder-la utilit
 Per descarregar el programari d'instal·lació, podeu accedir a aquest [enllaç[(https://www.spice-space.org/download.html)
 Per Ubuntu: *sudo apt install virt-viewer*
 
-3. **RDP** és el protocol d'escriptori remot de Microsoft, per tant s'adequa millor per utilitzar-ho amb sistemes Microsoft Windows. Tenim una versió per obrir des d'un navegador, una versió per utilitzar el client RDP i una darrera versió per utilitzar amb la VPN que proporciona Isard.
+3. **RDP** és el protocol d'escriptori remot de Microsoft, per tant s'adequa millor per utilitzar-ho amb sistemes Microsoft Windows. Tenim una versió per obrir des d'un navegador, una versió per utilitzar el client RDP i una darrera versió per utilitzar amb la [VPN](https://github.com/llferreres/IsardVDI-SMX-MP0227/blob/main/documentacio/extra-info/e01-xarxes.md#vpn) que proporciona Isard.
