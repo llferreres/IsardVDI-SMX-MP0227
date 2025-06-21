@@ -47,3 +47,14 @@ A la part superior hi trobarem aquestes icones que he numerat per explicar el se
 10. Darrer botó de la llista, permet accedir a la paperera per esborrar o recuperar desplegaments. És la paperera general, no només mostra desplegaments si no també allò que s'hagi esborrat, per exemple un escriptori.
 
 L'alumnat podrà llavors iniciar l'escriptori i accedir des d'un [visor](https://github.com/llferreres/IsardVDI-SMX-MP0227/blob/main/documentacio/extra-info/e02-Visors.md).
+
+-------------------------
+Si durant la creació hem habilitat l'opció de permetre que l'alumnat pugui recrear el seu escriptori a partir del desplegament o si editem el desplegament amb posterioritat per permetre-ho, l'alumnat veurà aquesta icona per si se li penja o té qualsevol problema tornar a l'estat inicial.
+
+Aquesta és l'opció que s'ha de marcar a les opcions avançades
+
+![22-permisRecrear](https://github.com/user-attachments/assets/72b88ab3-48a4-4d3b-bac6-8f0422835054)
+
+Aquesta és la icona que veurà l'usuari si obre el menú de l'escriptori
+
+![21-recrearUsuari](https://github.com/user-attachments/assets/1e1a7b4c-c51d-44ae-825f-fb8138f3cf4f)
