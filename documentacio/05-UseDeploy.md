@@ -46,4 +46,4 @@ A la part superior hi trobarem aquestes icones que he numerat per explicar el se
 
 10. Darrer botó de la llista, permet accedir a la paperera per esborrar o recuperar desplegaments. És la paperera general, no només mostra desplegaments si no també allò que s'hagi esborrat, per exemple un escriptori.
 
-L'alumnat podrà llavors iniciar l'escriptori i accedir des d'un visor.
+L'alumnat podrà llavors iniciar l'escriptori i accedir des d'un [visor](https://github.com/llferreres/IsardVDI-SMX-MP0227/blob/main/documentacio/extra-info/e02-Visors.md).
